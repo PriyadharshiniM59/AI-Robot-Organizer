@@ -1,0 +1,10 @@
+.DS_Store
+.localized
+node_modules/
+.next/
+*.log
+.env*
+VSCode-darwin-universal.zip*
+AllPDFs/
+My_Screenshot/
+src/
